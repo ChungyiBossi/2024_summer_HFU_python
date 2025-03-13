@@ -1,0 +1,8 @@
+*__pycache__*
+.vscode/*
+2024_summer_project_env/*
+2024_summer_project.code-workspace
+*.jpg
+# *.jpeg
+*.png
+ngrok.exe
